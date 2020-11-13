@@ -25,3 +25,4 @@ And now we have a search bar at the top of the list, which will search the datab
 Now that our database model is complete we need to create the necessary views, URLs, and templates so we can display the information on our web application.
 
 """
+
